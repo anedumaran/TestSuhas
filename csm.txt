@@ -1,0 +1,13 @@
+CSM Ceritified
+Ensures everyone follows the practices prescribed by Scrum.
+Facilitator and Servant Leader who encourages and demands self-organization from the development team. 
+Enable close cooperation across all roles and functions, addresses resource issue and disobedience of scrum practices. 
+Preparing Business Impact Analysis for every story that doesnt get delivered in the sprint or needs deferral to next sprint and present this to the client. 
+Ensure that the complete work follows the organization & client standards. 
+Ensure the Quality and Quantity deliverables. 
+Planning of the assigned activities in more detail and complete it within the timeline. 
+Facilitate the Design and Test community to get aligned to product owner vision. 
+Sending out the Daily Story and burndown chart to the respective 
+Stakeholders Co Plan and do strategies to achieve the Digital transformation objective of the client
+
+Test Message ---Desktop
